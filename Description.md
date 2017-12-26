@@ -3,7 +3,7 @@
 ### 源码在homework9/master/source/testwordcount.scala
 &ensp;&ensp;在IntelliJ IDEA上用scala实现  
 &ensp;&ensp;结果截图  
-![Image text](https://raw.github.com/cjjloves/homework9/master/screenshot/result)  
+![Image text](https://raw.github.com/cjjloves/homework9/master/screenshot/result.JPG)  
 ### 遇到的问题
 &ensp;&ensp;1. scala与spark版本不兼容问题  
 ![Image text](https://raw.github.com/cjjloves/homework9/master/problems/版本不兼容.JPG)  
