@@ -1,7 +1,7 @@
 # homework9
 ## 1. 在Spark上实现Project1的需求1（词频统计），可以用Scala也可以用Java或者Python。
 ### 源码在homework9/master/source/testwordcount.scala
-&ensp;&ensp;在IntelliJ IDEA上用scala实现  
+&ensp;&ensp;在IntelliJ IDEA上用scala实现  
 &ensp;&ensp;结果截图  
 ![Image text](https://raw.github.com/cjjloves/homework9/master/screenshot/result.JPG)  
 ### 遇到的问题
