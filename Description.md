@@ -1,4 +1,3 @@
-# homework9
 ## 1. 在Spark上实现中文词频统计。
 ### 源码在homework9/master/source/testwordcount.scala
 &ensp;&ensp;在IntelliJ IDEA上用scala实现  
