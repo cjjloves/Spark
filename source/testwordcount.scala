@@ -16,11 +16,7 @@ object testwordcount {
     //----添加停用词----
     val filter = new StopRecognition()
     filter.insertStopNatures("w") //过滤掉标点
-    //----先分一句话测试----
-    //val testsentence = DicAnalysis.parse("好喜欢《武林外传》这部电视剧！"). //用DicAnalysis分词，这是一个优先用户自定义词典分词的分词方式
-     // recognition(filter).  // 过滤停用词
-     // toStringWithOutNature("|") // 分词默认会打出词性，此语句用于不打出词性，并且分好的词用“|”隔开
-   // println(testsentence)
+  
 
     // ----构建spark对象----
     val conf = new SparkConf().setAppName("TextClassificationDemo").setMaster("local")
